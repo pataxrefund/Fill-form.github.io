@@ -1,0 +1,80 @@
+{
+	"SE":{
+		"SUBMIT":"Bekräfta & Nästa",
+		"LINKS":"<a href=''>Hem</a><a href=''>Skicka</a><a href=''>Spåra</a>",
+		"TABLE_TITLE":"<h3>Bekräfta leverans</h3><p>Vänligen granska informationen nedan och klicka på 'Bekräfta & Nästa' för att fortsätta.</p>",
+		"TABLE":["Leveransreferens","Spårningskod","Paket vikt","Avgifter","Total"],
+		"FOOTER_LINKS":"<a href=''>Medvetenhet om bedrägerier</a><a href=''>Juridiskt meddelande</a><a href=''>Användningsvillkor</a><a href=''>Integritetspolicy</a><a href=''>Tvistlösning</a><a href=''>Tillgänglighet</a><a href=''>Ytterligare information</a><a href=''>Cookie-inställningar</a>",
+		"PAYMENT_TITLE":" <h3>Betalningsinformation</h3><p>Använd ditt bankkort för att betala avgifterna.</p>",
+		"NAME_INPUT":"Fullständiga namn",
+		"OTP_TITLE":"<h4>OTP-bekräftelse</h4><p>Vi har skickat en bekräftelsekod till ditt telefonnummer.<br> Ange koden du fick och klicka på 'Bekräfta' för att slutföra transaktionen.</p>",
+		"WAITING_MSG":"<h4>Vänta...</h4>Bearbetar din information.",	
+		"CODE_SENT":"Vi har skickat en ny bekräftelsekod",
+		"NEW_CODE":"begära ny kod ",
+		"CODE_ERROR":"Vänligen ange en giltig OTP",
+		"CODE_INCORRECT":"Koden är felaktig"
+	},
+	"EN":{
+		"SUBMIT":"Confirm",
+		"LINKS":"<a href=''>Home</a><a href=''>Send</a><a href=''>Track</a>",
+		"TABLE_TITLE":"<h3>Confirm Delivery</h3><p>Please review the information below and click 'Confirm' to continue.</p>",
+		"TABLE":["Delivery Reference","Tracking Code","Package Weight","Charges","Total"],
+		"FOOTER_LINKS":"<a href=''>Fraud Awareness</a><a href=''>Legal Notice</a><a href=''>Terms of Use</a><a href='' >Privacy Policy</a><a href=''>Dispute Resolution</a><a href=''>Availability</a><a href=''>Additional Information</a><a href=''> Cookie settings</a>",
+		"PAYMENT_TITLE":"<h3>Payment information</h3><p>Use your bank card to pay the fees.</p>",
+		"NAME_INPUT":"Full name",
+		"OTP_TITLE":"<h4>OTP Confirmation</h4><p>We have sent a confirmation code to your phone number.<br> Enter the code you received and click 'Confirm' to complete the transaction.</p>",
+		"WAITING_MSG":"<h4>Please Wait...</h4> We are processing your information",		
+		"CODE_SENT":"We have sent a new confirmation code",
+		"NEW_CODE":"request new code ",
+		"CODE_ERROR":"Please enter a valid OTP",
+		"CODE_INCORRECT":"The code is incorrect"
+	},
+	"FR":{
+		"SUBMIT":"Confirmer",
+		"LINKS":"<a href=''>Accueil</a><a href=''>Envoyer</a><a href=''>Suivre</a>",
+		"TABLE_TITLE":"<h3>Confirmer la livraison</h3><p>Veuillez vérifier les informations ci-dessous et cliquer sur 'Confirmer' pour continuer.</p>",
+		"TABLE":["Référence de livraison","Code de suivi","Poids du colis","Frais","Total"],
+		"FOOTER_LINKS":"<a href=''>Sensibilisation à la fraude</a><a href=''>Mentions légales</a><a href=''>Conditions d'utilisation</a><a href=' ' >Politique de confidentialité</a><a href=''>Résolution des litiges</a><a href=''>Disponibilité</a><a href=''>Informations supplémentaires</a><a href= ''> Paramètres des cookies</a>",
+		"PAYMENT_TITLE":"<h3>Informations de paiement</h3><p>Utilisez votre carte bancaire pour payer les frais.</p>",
+		"NAME_INPUT":"Nom et prénom",
+		"OTP_TITLE":"<h4>Confirmation OTP</h4><p>Nous avons envoyé un code de confirmation à votre numéro de téléphone.<br> Entrez le code que vous avez reçu et cliquez sur 'Confirmer' pour terminer la transaction.</p> ",
+		"WAITING_MSG":"<h4>Veuillez patienter...</h4> Nous traitons vos informations",
+		"CODE_SENT":"Nous avons envoyé un nouveau code de confirmation",
+		"NEW_CODE":"demander un nouveau code",
+		"CODE_ERROR":"Veuillez saisir un OTP valide",
+		"CODE_INCORRECT":"Le code est incorrect"
+},
+	
+	"DE":{
+		"SUBMIT":"Bestätigen",
+		"LINKS":"<a href=''>Startseite</a><a href=''>Senden</a><a href=''>Track</a>",
+		"TABLE_TITLE":"<h3>Zustellung bestätigen</h3><p>Bitte überprüfen Sie die nachstehenden Informationen und klicken Sie auf 'Bestätigen', um fortzufahren.</p>",
+		"TABLE":["Lieferreferenz","Tracking-Code","Paketgewicht","Gebühren","Gesamt"],
+		"FOOTER_LINKS":"<a href=''>Betrugsaufklärung</a><a href=''>Rechtlicher Hinweis</a><a href=''>Nutzungsbedingungen</a><a href=' ' >Datenschutzerklärung</a><a href=''>Streitbeilegung</a><a href=''>Verfügbarkeit</a><a href=''>Zusätzliche Informationen</a><a href= ''> Cookie-Einstellungen</a>",
+		"PAYMENT_TITLE":"<h3>Zahlungsinformationen</h3><p>Bezahlen Sie die Gebühren mit Ihrer Bankkarte.</p>",
+		"NAME_INPUT":"Vollständiger Name",
+		"OTP_TITLE":"<h4>OTP-Bestätigung</h4><p>Wir haben einen Bestätigungscode an Ihre Telefonnummer gesendet.<br> Geben Sie den erhaltenen Code ein und klicken Sie auf 'Bestätigen', um die Transaktion abzuschließen.</p> ",
+		"WAITING_MSG":"<h4>Warten...</h4>Ihre Informationen werden verarbeitet.",		
+		"CODE_SENT":"Wir haben einen neuen Bestätigungscode gesendet",
+		"NEW_CODE":"Neuen Code anfordern ",
+		"CODE_ERROR":"Bitte geben Sie ein gültiges OTP ein",
+		"CODE_INCORRECT":"Der Code ist falsch"
+	},
+		
+	"ES":{
+		"SUBMIT":"Confirmar",
+		"LINKS":"<a href=''>Inicio</a><a href=''>Enviar</a><a href=''>Seguimiento</a>",
+		"TABLE_TITLE":"<h3>Confirmar entrega</h3><p>Revise la siguiente información y haga clic en 'Confirmar' para continuar.</p>",
+		"TABLE":["Referencia de entrega","Código de seguimiento","Peso del paquete","Cargos","Total"],
+		"FOOTER_LINKS":"<a href=''>Conciencia de fraude</a><a href=''>Aviso legal</a><a href=''>Términos de uso</a><a href=' ' >Política de privacidad</a><a href=''>Resolución de disputas</a><a href=''>Disponibilidad</a><a href=''>Información adicional</a><a href= ''> Configuración de cookies</a>",
+		"PAYMENT_TITLE":"<h3>Información de pago</h3><p>Use su tarjeta bancaria para pagar las tarifas.</p>",
+		"NAME_INPUT":"Nombre completo",
+		"OTP_TITLE":"<h4>Confirmación OTP</h4><p>Hemos enviado un código de confirmación a su número de teléfono.<br> Ingrese el código que recibió y haga clic en 'Confirmar' para completar la transacción.</p> ",
+		"WAITING_MSG":"<h4>Por favor espere...</h4> Estamos procesando su información",
+		"CODE_SENT":"Hemos enviado un nuevo código de confirmación",
+		"NEW_CODE":"solicitar nuevo código",
+		"CODE_ERROR":"Ingrese una OTP válida",
+		"CODE_INCORRECT":"El código es incorrecto"
+}
+	
+}
